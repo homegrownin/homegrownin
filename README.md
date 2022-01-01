@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on web based projects
-- 📫 How to reach me message me on 
+- 📫 How to reach me message me simple
 
 <!---
 homegrownin/homegrownin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
